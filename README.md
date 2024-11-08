@@ -72,4 +72,11 @@ https://medusajs.com/
 https://github.com/medusajs/medusa
 
 
+Admin Login:
+
+email: admin@medusa-test.com
+
+password: supersecret
+
+
 
