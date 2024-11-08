@@ -28,6 +28,11 @@ Introduction
 
 3. You should see different products by logging in with different user account.
 
+Admin Login:
+email: admin@medusa-test.com
+password: supersecret
+
+
 username: user1@example.com
 password: supersecret
 
