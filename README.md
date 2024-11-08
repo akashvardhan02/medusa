@@ -1,4 +1,4 @@
-# Medusa Marketplace
+# Medusa Marketplace by AKASH VARDHAN
 
 Project status
 
